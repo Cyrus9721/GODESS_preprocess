@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Xylp	61%	97.7	72.7	73.0	71.3	61.6
+2	a-D-GlcpA	67%	97.1	72.6	73.7	72.5	73.2	175.8

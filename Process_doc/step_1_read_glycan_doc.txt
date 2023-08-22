@@ -1,0 +1,299 @@
+1, Missing c_tsv_hyb.txt
+
+Experimental_1D/194 is missing c_tsv_hyb.txt
+Experimental_1D/110 is missing c_tsv_hyb.txt
+Experimental_1D/78 is missing c_tsv_hyb.txt
+Experimental_1D/145 is missing c_tsv_hyb.txt
+Experimental_1D/206 is missing c_tsv_hyb.txt
+Experimental_1D/20 is missing c_tsv_hyb.txt
+Experimental_1D/100 is missing c_tsv_hyb.txt
+Experimental_1D/209 is missing c_tsv_hyb.txt
+Experimental_1D/114 is missing c_tsv_hyb.txt
+Experimental_1D/386 is missing c_tsv_hyb.txt
+Experimental_1D/28 is missing c_tsv_hyb.txt
+Experimental_1D/215 is missing c_tsv_hyb.txt
+Experimental_1D/84 is missing c_tsv_hyb.txt
+Experimental_1D/88b is missing c_tsv_hyb.txt
+Experimental_1D/89b is missing c_tsv_hyb.txt
+Experimental_1D/35 is missing c_tsv_hyb.txt
+Experimental_1D/11 is missing c_tsv_hyb.txt
+Experimental_1D/125 is missing c_tsv_hyb.txt
+Experimental_1D/102 is missing c_tsv_hyb.txt
+Experimental_1D/103 is missing c_tsv_hyb.txt
+Experimental_1D/29 is missing c_tsv_hyb.txt
+Experimental_1D/113 is missing c_tsv_hyb.txt
+Experimental_1D/65 is missing c_tsv_hyb.txt
+Experimental_1D/88 is missing c_tsv_hyb.txt
+Experimental_1D/13 is missing c_tsv_hyb.txt
+Experimental_1D/92 is missing c_tsv_hyb.txt
+Experimental_1D/63 is missing c_tsv_hyb.txt
+Experimental_1D/148 is missing c_tsv_hyb.txt
+Experimental_1D/210 is missing c_tsv_hyb.txt
+Experimental_1D/71 is missing c_tsv_hyb.txt
+Experimental_1D/12 is missing c_tsv_hyb.txt
+Experimental_1D/68 is missing c_tsv_hyb.txt
+Experimental_1D/130 is missing c_tsv_hyb.txt
+Experimental_1D/79 (1) is missing c_tsv_hyb.txt
+Experimental_1D/38 is missing c_tsv_hyb.txt
+Experimental_1D/41 is missing c_tsv_hyb.txt
+Experimental_1D/126 is missing c_tsv_hyb.txt
+Experimental_1D/200 is missing c_tsv_hyb.txt
+Experimental_1D/154 is missing c_tsv_hyb.txt
+Experimental_1D/147 is missing c_tsv_hyb.txt
+Experimental_1D/86a is missing c_tsv_hyb.txt
+Experimental_1D/85 is missing c_tsv_hyb.txt
+Experimental_1D/117 is missing c_tsv_hyb.txt
+Experimental_1D/205b is missing c_tsv_hyb.txt
+Experimental_1D/62 is missing c_tsv_hyb.txt
+Experimental_1D/150 is missing c_tsv_hyb.txt
+Experimental_1D/69 is missing c_tsv_hyb.txt
+Experimental_1D/43 is missing c_tsv_hyb.txt
+Experimental_1D/48 is missing c_tsv_hyb.txt
+Experimental_1D/9 is missing c_tsv_hyb.txt
+Experimental_1D/94 is missing c_tsv_hyb.txt
+Experimental_1D/89 is missing c_tsv_hyb.txt
+Experimental_1D/132b is missing c_tsv_hyb.txt
+Experimental_1D/111 is missing c_tsv_hyb.txt
+Experimental_1D/86b is missing c_tsv_hyb.txt
+Experimental_1D/61 is missing c_tsv_hyb.txt
+Experimental_1D/67 is missing c_tsv_hyb.txt
+Experimental_1D/82 is missing c_tsv_hyb.txt
+Experimental_1D/99 is missing c_tsv_hyb.txt
+Experimental_1D/106 is missing c_tsv_hyb.txt
+Experimental_1D/8 is missing c_tsv_hyb.txt
+Experimental_1D/120 is missing c_tsv_hyb.txt
+Experimental_1D/64 is missing c_tsv_hyb.txt
+Experimental_1D/73 is missing c_tsv_hyb.txt
+Experimental_1D/131 is missing c_tsv_hyb.txt
+Experimental_1D/36 is missing c_tsv_hyb.txt
+Experimental_1D/200a is missing c_tsv_hyb.txt
+Experimental_1D/123 is missing c_tsv_hyb.txt
+Experimental_1D/129 is missing c_tsv_hyb.txt
+Experimental_1D/53 is missing c_tsv_hyb.txt
+Experimental_1D/205 is missing c_tsv_hyb.txt
+Experimental_1D/74 is missing c_tsv_hyb.txt
+Experimental_1D/40 is missing c_tsv_hyb.txt
+Experimental_1D/46 is missing c_tsv_hyb.txt
+Experimental_1D/127 is missing c_tsv_hyb.txt
+Experimental_1D/118 is missing c_tsv_hyb.txt
+Experimental_1D/151 is missing c_tsv_hyb.txt
+Experimental_1D/27 is missing c_tsv_hyb.txt
+Experimental_1D/112 is missing c_tsv_hyb.txt
+Experimental_1D/115 is missing c_tsv_hyb.txt
+Experimental_1D/198 is missing c_tsv_hyb.txt
+Experimental_1D/31 is missing c_tsv_hyb.txt
+Experimental_1D/109 is missing c_tsv_hyb.txt
+Experimental_1D/34 is missing c_tsv_hyb.txt
+Experimental_1D/98 is missing c_tsv_hyb.txt
+Experimental_1D/92b is missing c_tsv_hyb.txt
+Experimental_1D/116 is missing c_tsv_hyb.txt
+Experimental_1D/124 is missing c_tsv_hyb.txt
+Experimental_1D/200b is missing c_tsv_hyb.txt
+Experimental_1D/49 is missing c_tsv_hyb.txt
+Experimental_1D/86 is missing c_tsv_hyb.txt
+Experimental_1D/132a is missing c_tsv_hyb.txt
+Experimental_1D/89a is missing c_tsv_hyb.txt
+Experimental_1D/101 is missing c_tsv_hyb.txt
+Experimental_1D/213 is missing c_tsv_hyb.txt
+Experimental_1D/70 is missing c_tsv_hyb.txt
+Experimental_1D/45 is missing c_tsv_hyb.txt
+Experimental_1D/10 is missing c_tsv_hyb.txt
+Experimental_1D/76 is missing c_tsv_hyb.txt
+Experimental_1D/80 is missing c_tsv_hyb.txt
+Experimental_1D/213b is missing c_tsv_hyb.txt
+Experimental_1D/90 is missing c_tsv_hyb.txt
+Experimental_1D/56 is missing c_tsv_hyb.txt
+Experimental_1D/88a is missing c_tsv_hyb.txt
+Experimental_1D/32 is missing c_tsv_hyb.txt
+Experimental_1D/149 is missing c_tsv_hyb.txt
+Experimental_1D/39 is missing c_tsv_hyb.txt
+Experimental_1D/66 is missing c_tsv_hyb.txt
+Experimental_1D/132 is missing c_tsv_hyb.txt
+Experimental_1D/301 is missing c_tsv_hyb.txt
+Experimental_1D/108 is missing c_tsv_hyb.txt
+Experimental_1D/182 is missing c_tsv_hyb.txt
+Experimental_1D/95 is missing c_tsv_hyb.txt
+Experimental_1D/33 is missing c_tsv_hyb.txt
+Experimental_1D/213a is missing c_tsv_hyb.txt
+Experimental_1D/156 is missing c_tsv_hyb.txt
+Experimental_1D/51 is missing c_tsv_hyb.txt
+Experimental_1D/50 is missing c_tsv_hyb.txt
+Experimental_1D/81 is missing c_tsv_hyb.txt
+Experimental_1D/30 is missing c_tsv_hyb.txt
+Experimental_1D/93 is missing c_tsv_hyb.txt
+Experimental_1D/25 is missing c_tsv_hyb.txt
+Experimental_1D/144 is missing c_tsv_hyb.txt
+Experimental_1D/75 is missing c_tsv_hyb.txt
+Experimental_1D/26 is missing c_tsv_hyb.txt
+Experimental_1D/91 is missing c_tsv_hyb.txt
+Experimental_1D/72 is missing c_tsv_hyb.txt
+Experimental_1D/97 is missing c_tsv_hyb.txt
+Experimental_1D/216 is missing c_tsv_hyb.txt
+Experimental_1D/44 is missing c_tsv_hyb.txt
+Experimental_1D/37 is missing c_tsv_hyb.txt
+Experimental_1D/87 is missing c_tsv_hyb.txt
+Experimental_1D/52 is missing c_tsv_hyb.txt
+Experimental_1D/47 is missing c_tsv_hyb.txt
+Experimental_1D/107 is missing c_tsv_hyb.txt
+Experimental_1D/122 is missing c_tsv_hyb.txt
+Experimental_1D/155 is missing c_tsv_hyb.txt
+Experimental_1D/83 is missing c_tsv_hyb.txt
+Experimental_1D/205a is missing c_tsv_hyb.txt
+Experimental_1D/96 is missing c_tsv_hyb.txt
+Experimental_1D/77 is missing c_tsv_hyb.txt
+Experimental_1D/104 is missing c_tsv_hyb.txt
+Experimental_1D/105 is missing c_tsv_hyb.txt
+Experimental_1D/92a is missing c_tsv_hyb.txt
+Experimental_1D/310 is missing c_tsv_hyb.txt
+Experimental_1D/42 is missing c_tsv_hyb.txt
+Experimental_1D/214 is missing c_tsv_hyb.txt
+Experimental_1D/133 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1254 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2298 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/28 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1590 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/613 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2302 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/590 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/3361 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/800 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/57 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/3471 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/3403 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1893 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1719 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/996 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/799 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2683 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1155 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1671 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2000 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/1648 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/698 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2991 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/158 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2091 is missing c_tsv_hyb.txt
+Theoretical_NewGlycans_MaxLength20/2212 is missing c_tsv_hyb.txt
+
+2, PDB file is missing 
+Experimental_1D/215 is missing PDB file
+Experimental_1D/79 (1) is missing PDB file
+Theoretical_NewGlycans_MaxLength20/1254 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2298 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/28 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/613 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2302 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/590 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/57 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/3403 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/1893 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2683 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/1155 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/1671 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2000 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/1648 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/698 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2991 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/158 is missing PDB file
+Theoretical_NewGlycans_MaxLength20/2212 is missing PDB file
+
+
+3, System Error:
+
+dataset/Godess_carbon/549/PDB.pdb
+
+
+4, too many carbon shifts in this folder
+
+dataset/Godess_carbon/518/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/335/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/549/PDB.pdb
+dataset/Godess_carbon/154/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/140/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/456/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/258/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/280/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/480/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/379/PDB.pdb
+8 columns
+
+dataset/Godess_carbon/4/PDB.pdb
+29 columns
+
+dataset/Godess_carbon/383/PDB.pdb
+25 columns
+
+5, In consistent matching between pdb and csv
+this mainly happens because the pdb file treats non monosaccharide components as monosaccharides
+
+487.csv
+903.csv
+444.csv
+1817.csv
+1923.csv
+1314.csv
+589.csv
+222.csv
+1388.csv
+1677.csv
+1883.csv
+489.csv
+1081.csv
+1045.csv
+328.csv
+9.csv
+839.csv
+1395.csv
+1541.csv
+554.csv
+651.csv
+958.csv
+486.csv
+26.csv
+631.csv
+705.csv
+742.csv
+1600.csv
+1128.csv
+1830.csv
+717.csv
+1535.csv
+1380.csv
+739.csv
+1955.csv
+1614.csv
+1813.csv
+1251.csv
+1532.csv
+54.csv
+617.csv
+71.csv
+1175.csv
+61.csv
+
+6, 1983.pdb.csv is a wierd pdb
+'690.pdb.csv' is also a wierd pdb
+
+Their three letter monosaccharide name is inconsistent
+
+7, '441.pdb.csv', '737.pdb.csv' 
+contain too many question marks
+also has the PDa problem
+
+8, Some glycans contain nan values in label files

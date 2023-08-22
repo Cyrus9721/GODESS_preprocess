@@ -1,0 +1,4 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C16
+	Kaempferol	0%	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+7	a-L-Rhap	65%	102.0	71.3	71.2	73.2	70.0	17.7
+3	b-D-Glcp	63%	103.5	74.5	76.5	70.5	76.8	61.8

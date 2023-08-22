@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	b-D-Fruf	42%	3.63-3.81	-	4.24	4.10	3.86	3.75-3.84

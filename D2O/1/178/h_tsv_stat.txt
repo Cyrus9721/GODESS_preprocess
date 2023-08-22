@@ -1,0 +1,5 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12	H13	H14	H15	H16
+	Myricetin	0%	-	-	-	-	-	?	-	?	-	-	-	?	-	-	-	?
+7	Me	95%	3.48
+3	a-L-Rhap	25%	5.07	4.12	3.90	3.53	3.88	1.29
+3,3	Gallic	95%	-	6.94	-	-	-	6.97	-

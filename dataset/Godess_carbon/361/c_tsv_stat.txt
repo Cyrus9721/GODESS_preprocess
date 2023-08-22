@@ -1,0 +1,6 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-GlcpN	33%	96.8	54.5	71.3	78.5	72.7	69.4
+2	S	
+6	S	
+4	a-L-IdopA	38%	101.5	71.7	72.7	72.3	68.5	174.2
+4,2	S	

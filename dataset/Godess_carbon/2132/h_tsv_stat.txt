@@ -1,0 +1,4 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12	H13	H14	H15	H16
+	Cyanidin	0%	-	-	-	?	-	?	-	?	-	-	-	?	-	-	?	?
+3	b-D-Galp	53%	4.54	3.69	3.82	3.93	3.68	3.77
+3,2	b-D-Xylp	81%	4.61	3.25	3.41	3.72	3.25-3.78

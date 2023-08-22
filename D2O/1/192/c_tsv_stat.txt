@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Galf	54%	108.4	82.2	77.6	83.9	71.7	63.7

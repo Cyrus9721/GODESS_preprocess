@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Fucf	93%	96.1	77.9	76.1	85.8	70.2	18.9

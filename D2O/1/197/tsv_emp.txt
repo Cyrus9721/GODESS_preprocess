@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5
+	D-Ara-ol	100%	64.4	71.6	71.9	72.3	64.3

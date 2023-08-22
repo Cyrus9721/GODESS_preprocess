@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	b-D-Fruf	9%	62.7	105.5	78.3	75.8	82.6	63.7
+3	a-D-Glcp	67%	99.1	72.7	74.1	70.5	73.1	61.6

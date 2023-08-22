@@ -1,0 +1,5 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12	H13	H14	H15	H16
+	Luteolin	0%	-	-	?	-	-	?	-	?	-	-	-	?	-	-	?	?
+54	Me	97%	3.50
+6	b-L-6dribHexp-3-ulo	76%	4.83	5.27	-	3.88	3.37	1.28
+6,2	a-L-Rhap	81%	4.63	3.69	3.02	2.95	2.34	0.65

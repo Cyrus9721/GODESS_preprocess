@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Fucf	49%	102.5	77.8	76.1	85.5	70.3	18.6

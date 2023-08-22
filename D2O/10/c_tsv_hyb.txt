@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-Glcp	87%	100.3	71.9	81.0	71.1	73.5	62.0

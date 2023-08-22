@@ -1,0 +1,20 @@
+
+
+1, Incorrect matchings: 17
+SIA b-D-Galp labeled_all_17.pdb.csv
+SIA b-D-Galp labeled_all_516.pdb.csv
+
+2, Contain Pyr:
+315.pdb.csv, need to ignore hydrogen from Pyr
+
+3, Contain Asn:
+294.pdb.csv, no label, nothing 
+
+4, Contain Me:
+Looks fine, all files has different monosaccharide
+
+5, Contain D-Glc-ol:
+214.pdb.csv, need to be removed, only file contain this monosaccharide
+
+6, Contain P and EtN:
+can be ignored

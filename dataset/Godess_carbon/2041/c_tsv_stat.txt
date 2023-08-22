@@ -1,0 +1,4 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	C13	C14	C15	C16
+	Quercetin	0%	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+3	b-D-Galp	59%	104.2	71.9	73.8	69.8	75.1	70.4
+3,6	b-D-Glcp	79%	103.8	73.8	76.5	70.6	77.0	61.6

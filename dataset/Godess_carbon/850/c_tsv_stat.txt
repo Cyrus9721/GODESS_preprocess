@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-D-GalpA	73%	92.7	68.7	71.1	81.9	71.5	175.7
+4	b-D-Xylp	62%	104.1	73.4	76.1	70.8	66.2

@@ -1,0 +1,4 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12	H13	H14	H15	H16
+	Quercetin	0%	-	-	-	-	-	?	-	?	-	-	-	?	-	-	?	?
+3	b-D-Glcp	62%	4.61	3.52	3.69	3.43	3.45	3.72-3.89
+3,2	b-D-Xylp	91%	4.72	3.28	3.43	3.61	3.23-3.90

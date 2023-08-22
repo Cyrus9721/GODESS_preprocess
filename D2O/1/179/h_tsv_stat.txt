@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-L-Araf	28%	5.24	4.02	4.04	4.08	3.73-3.82
+5	a-L-Rhap	38%	5.07	4.12	3.80	3.45	3.88	1.29

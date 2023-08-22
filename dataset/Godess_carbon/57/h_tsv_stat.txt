@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-L-GulpA	81%	5.03	3.89	3.99	4.10	4.44	-

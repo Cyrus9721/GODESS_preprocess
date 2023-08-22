@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5
+	D-Ara-ol	94%	3.73-3.81	4.07	3.63	3.76	3.69-3.82

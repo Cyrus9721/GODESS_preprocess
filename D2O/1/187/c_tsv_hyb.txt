@@ -1,0 +1,2 @@
+Lineage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-L-6dTalp	94%	95.3	71.1	66.5	73.2	68.1	16.6

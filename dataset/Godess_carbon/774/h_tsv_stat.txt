@@ -1,0 +1,3 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	a-D-Galp	68%	5.28	3.90	3.86	4.01	4.14	3.73-3.74
+2	a-D-ManpA	47%	5.05	4.03	3.78	3.74	4.21	-

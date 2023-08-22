@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6
+	b-D-Rhap3N	40%	4.89	?	?	3.31	3.53	1.27

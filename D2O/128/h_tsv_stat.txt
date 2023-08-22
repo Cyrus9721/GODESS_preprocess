@@ -1,0 +1,6 @@
+Linkage	Residue	Trust	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12	H13	H14	H15	H16
+	Luteolin	0%	-	-	?	-	-	?	-	?	-	-	-	?	-	-	?	?
+54	Me	97%	3.50
+53	Me	97%	3.50
+7	Me	95%	3.48
+5	b-D-Glcp	58%	4.63	3.32	3.50	3.38	3.43	3.74-3.88

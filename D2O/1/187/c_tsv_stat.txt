@@ -1,0 +1,2 @@
+Linkage	Residue	Trust	C1	C2	C3	C4	C5	C6
+	a-L-6dTalp	86%	95.0	71.1	66.7	73.4	68.7	16.8
