@@ -13,5 +13,5 @@ These atom connection(stored in pdb) info helped match the monosaccharide ID bet
     In contrast, glycoscience's data, has various inconsistent schemes, sometimes H61 is H6A, or H62 is H6B things, etc.. C3a, C31 things. We 
   created lookup tables to resolve this issue in Glycosciences, but this was less needed in GODESS's data.
 
--4, GODESS did not have missing shift issues to the extend Glycoscience did as it's a simulation program.
+- 4, GODESS did not have missing shift issues to the extend Glycoscience did as it's a simulation program.
 
