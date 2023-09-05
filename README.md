@@ -3,6 +3,8 @@
 
 ### Data cleaning, preprocessing and annotating doc for simulated GODESS dataset
 
+We summarize the whole process into 7 steps:
+
 1, Read in the PDB file, label file that contains NMR shift values, and create atom connection file from the PDB file.
 
 - PDB structure files produced by [GODESS](https://drive.google.com/file/d/15qIixe-irZyJKzvuoINuK1-d53nC8Jyh/view?usp=sharing) contain pairwise atom bond information while [Glycoscience](https://github.com/Cyrus9721/GlycoscienceDB_preprocess) PDB files do not.
@@ -29,7 +31,7 @@ labeled components that is more clearly and consistently labeled (GlcpN / Ac) in
 
 6, We run a simple GNN model and check for outliers. We then conduct manually examinations, if the outlier is from annotation error, we then go back to step 2 and re-run the whole process. 
 
-7, We identify some rarely appeared monosaccharides (like appears only once) and drop the carbohydrates.
+7, We identify some rarely appeared monosaccharides (like appears only once) and drop the corresponding carbohydrates.
 
 ---
 
