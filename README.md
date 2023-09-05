@@ -3,7 +3,7 @@
 
 ### Data cleaning, preprocessing and annotating doc for simulated GODESS dataset
 
-We summarize the whole process into 7 steps below. Researchers interested in uploading carbohydrate data to this or other similar datasets should note that this preprocessing pipeline could be streamlined greatly if more completely and consistently annotated data is uploaded by the researchers who generated it.
+We summarize the whole process into 7 steps below. Researchers interested in uploading carbohydrate data to this or other similar datasets should note that this preprocessing pipeline could be streamlined, or simplified substantially, if more completely and consistently annotated experimental data is provided at the time of original upload to public repositories. Uniform standards in NMR and structure file annotation is a high priority issue for carbohyrdrate research.
 
 1, Read-in the PDB file and the label file that contains NMR shift values, and then create atom connection file from the PDB file.
 
