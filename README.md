@@ -17,7 +17,7 @@ We summarize the whole process into 7 steps below. Researchers interested in upl
     In contrast, Glycosciences data, has various inconsistent schemes, sometimes H61 is H6A, or H62 is H6B, or similar trends, etc. (C3a, C31). We 
   created lookup tables to resolve this inconsistent formatting issue in Glycosciences, but this was less needed in GODESS's data.
 
-- 2.3 In Glycoscience the Acetyl (Ac) component is usually within monosaccharide name (e.g. GlcpNAc). When not specified Ac is usually a (1-2) linkage, though not always and usually when not specified as Glcp4Ac for C4 for example. GODESS treats Ac as a separate 
+- 2.3 In Glycoscience the Acetyl (Ac) component is usually within monosaccharide name (e.g. GlcpNAc). When not specified Ac is usually a (1-2) linkage, though not always, and usually if a less common Ac linkage written as Glcp4Ac for C4 for example. GODESS treats Ac as a separate 
 labeled component that is more clearly and consistently labeled ( GlcpNAc -> GlcpNAc -> Ac(1-2)GlcpN ) in the linear chemical formula, as well as in all shift and structure data files. This consistency advantage enables us to use the Ac interaction easily as an extra feature at the atom-level when modeling the GODESS data. Other non-monosaccharide components from the PDB file can also be obtained (and verified) using atom connection information. Future work could additionally use the linear chemical formula to find and validate non-monosaccharide components.
 
 - 2.4 GODESS did not have missing shift issues to the extent Glycoscience did as it's an extensive simulation program rather than pure experimental data.
