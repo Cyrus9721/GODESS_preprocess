@@ -38,4 +38,4 @@ labeled component that is more clearly and consistently labeled ( GlcpNAc -> Glc
 
 This is created to visualize the overall performance of 2D GNN on GODESS dataset. 
 
-![gcn_all](/figures/testing_complete_label_v4.png?raw=true) <br />
+![gcn_all](figures/testing_complete_label_v4.png?raw=true) <br />
