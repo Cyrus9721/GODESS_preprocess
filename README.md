@@ -7,7 +7,7 @@ We summarize the whole process into 7 steps below. Researchers interested in upl
 
 1, Read-in the PDB file and the label file that contains NMR shift values, and then create atom connection file from the PDB file.
 
-- PDB structure files produced by [GODESS](https://drive.google.com/file/d/15qIixe-irZyJKzvuoINuK1-d53nC8Jyh/view?usp=sharing) contain pairwise atom bond information while [Glycoscience](https://github.com/Cyrus9721/GlycoscienceDB_preprocess) PDB files do not. Glycoscience files however contain helpful monosaccharide linkage notes at the bottom of the PDB files that are not present in GODESS files. Thus the atom connections (stored in PDB format) helped match the monosaccharide ID between PDB file and csv file in a more automated way in GODESS.
+- PDB structure files produced by [GODESS](https://drive.google.com/file/d/15qIixe-irZyJKzvuoINuK1-d53nC8Jyh/view?usp=sharing) contain pairwise atom bond information while [Glycoscience](https://drive.google.com/file/d/1z6OMzvvALq8rOZBWAW5C9yBr_UBQ__ZT/view?usp=sharing) PDB files do not. Glycoscience files however contain helpful monosaccharide linkage notes at the bottom of the PDB files that are not present in GODESS files. Thus the atom connections (stored in PDB format) helped match the monosaccharide ID between PDB file and csv file in a more automated way in GODESS.
 
 2, Identify the monosaccharide components in the PDB file. Align the monosaccharide IDs between the PDB file and the label file with the help of the atom connection in GODESS or the monosaccharide linkage notes in the bottom of Glycoscience PDB files. Indentify non-monosaccharide components with the help of the atom connection information. 
 
@@ -38,4 +38,4 @@ labeled component that is more clearly and consistently labeled ( GlcpNAc -> Glc
 
 This is created to visualize the overall performance of 2D GNN on GODESS dataset. 
 
-![gcn_all](figures/testing_complete_label_v4.png?raw=true) <br />
+![gcn_all](testing_complete_label_v4.png) <br />
