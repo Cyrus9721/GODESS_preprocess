@@ -411,7 +411,7 @@ manualName =  False #"aLFucp(1-2)[Ac(1-2)aDGalpN(1-3)]bDGalp(1-3)[Ac(1-2)]bDGlcp
  # bDGlcp(1-4)bDGlcpA(1-3)aDGalpA(1-4)aDGalp 143
 Solvent = 'D2' #'DMSO'
 UsePreloadedLibrary = False
-DataDirect = "C:/Users/ryanbadman/Documents/GitHub/CASPERGlyoData/Nov2022/"
+DataDirect = ""
 ReadFromFile = 1
 
 if ReadFromFile == 0:
